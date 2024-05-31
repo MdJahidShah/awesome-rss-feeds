@@ -14,6 +14,7 @@
 			<outline text="jagonews24.com | rss Feed" title="jagonews24.com | rss Feed" description="A RSS news feed containing the latest Jago News articles." xmlUrl="https://www.jagonews24.com/rss/rss.xml" type="rss" />
 			<outline text="kalerkantho Kantho" title="kalerkantho Kantho" description="kalerkantho.com RSS Feed" xmlUrl="https://www.kalerkantho.com/rss.xml" type="rss" />
 			<outline text="প্রথম আলো" title="প্রথম আলো" description="" xmlUrl="https://www.prothomalo.com/feed/" type="rss" />
+			<outline text="Dhaka Tribune" title="Dhaka Tribune" description="" xmlUrl="https://bangla.dhakatribune.com/feed/" type="rss" />
 		</outline>
 	</body>
 </opml>
